@@ -1,0 +1,6 @@
+{
+	// Removes the "Allow Commands" button in the "Open to LAN" screen.
+	"removeButtonInOpenToLANScreen": true,
+	// Removes the "Allow Commands" button in the "Create New World" screen.
+	"removeButtonInCreateNewWorldScreen": false
+}

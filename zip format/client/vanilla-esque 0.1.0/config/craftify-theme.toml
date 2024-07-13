@@ -1,0 +1,44 @@
+
+[theme]
+	title_font = 0
+	artist_font = 0
+	background_color = "80,0,0,0"
+	title_color = "255,255,255,255"
+	artist_color = "255,255,255,255"
+	hide_image = false
+	border_color = "255,1,165,82"
+
+	[theme.controls]
+		color = "255,255,255,255"
+		selected_hover_color = "255,0,212,105"
+		hover_color = "255,150,150,150"
+		selected_color = "255,1,165,82"
+
+	[theme.progress_bar]
+		background_color = "255,50,50,50"
+		color = "255,255,255,255"
+		radius = 3.0
+		number_color = "255,255,255,255"
+		font = 0
+
+	[theme.icons]
+		play = "https://files.teamresourceful.com/r/rlQyJs.png"
+		next = "https://files.teamresourceful.com/r/FDIAxt.png"
+		settings = "https://files.teamresourceful.com/r/9DzwrP.png"
+		show_repeat_button = true
+		show_external_link_button = true
+		previous = "https://files.teamresourceful.com/r/Dr7nH1.png"
+		show_previous_button = true
+		position_editor = "https://files.teamresourceful.com/r/N3c8xm.png"
+		show_next_button = true
+		show_volume_control_button = true
+		show_position_editor_button = true
+		pause = "https://files.teamresourceful.com/r/55kubx.png"
+		external_link = "https://files.teamresourceful.com/r/7gJ4OY.png"
+		volume_control = "https://files.teamresourceful.com/r/i7XLC1.png"
+		repeat = "https://files.teamresourceful.com/r/4gVqmu.png"
+		"show_play/pause_toggle" = true
+		show_settings_button = true
+		shuffle = "https://files.teamresourceful.com/r/Bl9ZTS.png"
+		show_shuffle_button = true
+

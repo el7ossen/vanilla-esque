@@ -1,0 +1,1378 @@
+{
+	"repeaterUseSoundEffect": {
+		"pitch": 0.95,
+		"volume": 0.3,
+		"enabledDynamic": true,
+		"id": "repeaterUse",
+		"soundEvent": "minecraft:block.stone_button.click_on",
+		"shouldPlay": true
+	},
+	"jukeboxUseSoundEffect": {
+		"shouldPlay": true,
+		"pitch": 0.8,
+		"volume": 0.75,
+		"id": "jukeboxUse",
+		"soundEvent": "minecraft:block.note_block.basedrum"
+	},
+	"daylightDetectorUseSoundEffect": {
+		"shouldPlay": true,
+		"pitch": 0.8,
+		"volume": 0.45,
+		"id": "daylightDetectorUse",
+		"soundEvent": "minecraft:block.note_block.hat"
+	},
+	"furnaceMinecartFuelSoundEffect": {
+		"shouldPlay": true,
+		"pitch": 1.9,
+		"volume": 0.2,
+		"id": "furnaceMinecartFuel",
+		"soundEvent": "minecraft:entity.creeper.hurt"
+	},
+	"frostWalkerSoundEffect": {
+		"shouldPlay": true,
+		"pitch": 2.0,
+		"volume": 0.5,
+		"id": "frostWalker",
+		"soundEvent": "minecraft:block.powder_snow.fall"
+	},
+	"leadSnappingSoundEffect": {
+		"shouldPlay": true,
+		"pitch": 1.0,
+		"volume": 0.5,
+		"id": "leadSnapping",
+		"soundEvent": "minecraft:entity.leash_knot.break"
+	},
+	"bowPullSoundEffect": {
+		"shouldPlay": true,
+		"pitch": 1.0,
+		"volume": 0.25,
+		"id": "bowPull",
+		"soundEvent": "minecraft:item.crossbow.loading_middle"
+	},
+	"plantPotFillSoundEffect": {
+		"shouldPlay": true,
+		"pitch": 0.5,
+		"volume": 0.4,
+		"id": "plantPotFill",
+		"soundEvent": "minecraft:block.grass.place"
+	},
+	"cakeEatSoundEffect": {
+		"shouldPlay": true,
+		"pitch": 1.2,
+		"volume": 0.7,
+		"id": "cakeEat",
+		"soundEvent": "minecraft:entity.generic.eat"
+	},
+	"enableEnderpearlVariety": true,
+	"ACACIA_LEAVES": {
+		"blockTag": "sounds:acacia_leaves",
+		"group": {
+			"step": {
+				"sound_id": "sounds:block.acacia_leaves.step"
+			},
+			"place": {
+				"sound_id": "sounds:block.acacia_leaves.place"
+			},
+			"hit": {
+				"sound_id": "sounds:block.acacia_leaves.hit"
+			},
+			"fall": {
+				"sound_id": "sounds:block.acacia_leaves.fall"
+			},
+			"pitch": 1.0,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "sounds:block.acacia_leaves.break"
+			}
+		},
+		"enabled": true
+	},
+	"ACACIA_LOG": {
+		"blockTag": "sounds:acacia_log",
+		"group": {
+			"step": {
+				"sound_id": "sounds:block.acacia_log.step"
+			},
+			"place": {
+				"sound_id": "sounds:block.acacia_log.place"
+			},
+			"hit": {
+				"sound_id": "sounds:block.acacia_log.hit"
+			},
+			"fall": {
+				"sound_id": "sounds:block.acacia_log.fall"
+			},
+			"pitch": 1.0,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "sounds:block.acacia_log.break"
+			}
+		},
+		"enabled": true
+	},
+	"ACACIA_OBJECT": {
+		"blockTag": "sounds:acacia_object",
+		"group": {
+			"step": {
+				"sound_id": "sounds:block.acacia_planks.step"
+			},
+			"place": {
+				"sound_id": "sounds:block.acacia_planks.place"
+			},
+			"hit": {
+				"sound_id": "sounds:block.acacia_planks.hit"
+			},
+			"fall": {
+				"sound_id": "sounds:block.acacia_planks.fall"
+			},
+			"pitch": 1.0,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "sounds:block.acacia_planks.break"
+			}
+		},
+		"enabled": true
+	},
+	"ACACIA_PLANKS": {
+		"blockTag": "sounds:acacia_planks",
+		"group": {
+			"step": {
+				"sound_id": "sounds:block.acacia_planks.step"
+			},
+			"place": {
+				"sound_id": "sounds:block.acacia_planks.place"
+			},
+			"hit": {
+				"sound_id": "sounds:block.acacia_planks.hit"
+			},
+			"fall": {
+				"sound_id": "sounds:block.acacia_planks.fall"
+			},
+			"pitch": 1.0,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "sounds:block.acacia_planks.break"
+			}
+		},
+		"enabled": true
+	},
+	"BARREL": {
+		"blockTag": "sounds:barrel",
+		"group": {
+			"step": {
+				"sound_id": "sounds:block.barrel.step"
+			},
+			"place": {
+				"sound_id": "sounds:block.barrel.place"
+			},
+			"hit": {
+				"sound_id": "sounds:block.barrel.hit"
+			},
+			"fall": {
+				"sound_id": "minecraft:block.wood.fall"
+			},
+			"pitch": 1.0,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "minecraft:block.wood.break"
+			}
+		},
+		"enabled": true
+	},
+	"BEEHIVE": {
+		"blockTag": "sounds:beehive",
+		"group": {
+			"step": {
+				"sound_id": "sounds:block.bookshelf.step"
+			},
+			"place": {
+				"sound_id": "sounds:block.beehive.place"
+			},
+			"hit": {
+				"sound_id": "sounds:block.beehive.hit"
+			},
+			"fall": {
+				"sound_id": "minecraft:block.wood.fall"
+			},
+			"pitch": 1.0,
+			"volume": 1.5,
+			"break": {
+				"sound_id": "sounds:block.beehive.break"
+			}
+		},
+		"enabled": true
+	},
+	"BIRCH_LEAVES": {
+		"blockTag": "sounds:birch_leaves",
+		"group": {
+			"step": {
+				"sound_id": "sounds:block.birch_leaves.step"
+			},
+			"place": {
+				"sound_id": "sounds:block.birch_leaves.place"
+			},
+			"hit": {
+				"sound_id": "sounds:block.birch_leaves.hit"
+			},
+			"fall": {
+				"sound_id": "sounds:block.birch_leaves.fall"
+			},
+			"pitch": 1.0,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "sounds:block.birch_leaves.break"
+			}
+		},
+		"enabled": true
+	},
+	"BIRCH_LOG": {
+		"blockTag": "sounds:birch_log",
+		"group": {
+			"step": {
+				"sound_id": "sounds:block.birch_log.step"
+			},
+			"place": {
+				"sound_id": "sounds:block.birch_log.place"
+			},
+			"hit": {
+				"sound_id": "sounds:block.birch_log.hit"
+			},
+			"fall": {
+				"sound_id": "sounds:block.birch_log.fall"
+			},
+			"pitch": 1.0,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "sounds:block.birch_log.break"
+			}
+		},
+		"enabled": true
+	},
+	"BIRCH_OBJECT": {
+		"blockTag": "sounds:birch_object",
+		"group": {
+			"step": {
+				"sound_id": "sounds:block.birch_object.step"
+			},
+			"place": {
+				"sound_id": "sounds:block.birch_object.place"
+			},
+			"hit": {
+				"sound_id": "sounds:block.birch_planks.hit"
+			},
+			"fall": {
+				"sound_id": "sounds:block.birch_object.fall"
+			},
+			"pitch": 1.0,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "sounds:block.birch_object.break"
+			}
+		},
+		"enabled": true
+	},
+	"BIRCH_PLANKS": {
+		"blockTag": "sounds:birch_planks",
+		"group": {
+			"step": {
+				"sound_id": "sounds:block.birch_planks.step"
+			},
+			"place": {
+				"sound_id": "sounds:block.birch_planks.place"
+			},
+			"hit": {
+				"sound_id": "sounds:block.birch_planks.hit"
+			},
+			"fall": {
+				"sound_id": "sounds:block.birch_planks.fall"
+			},
+			"pitch": 1.0,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "sounds:block.birch_planks.break"
+			}
+		},
+		"enabled": true
+	},
+	"BOOKSHELF": {
+		"blockTag": "sounds:bookshelf",
+		"group": {
+			"step": {
+				"sound_id": "sounds:block.bookshelf.step"
+			},
+			"place": {
+				"sound_id": "sounds:block.bookshelf.place"
+			},
+			"hit": {
+				"sound_id": "sounds:block.bookshelf.hit"
+			},
+			"fall": {
+				"sound_id": "minecraft:block.wood.fall"
+			},
+			"pitch": 1.0,
+			"volume": 1.5,
+			"break": {
+				"sound_id": "sounds:block.bookshelf.break"
+			}
+		},
+		"enabled": true
+	},
+	"CHEST": {
+		"blockTag": "sounds:chest",
+		"group": {
+			"step": {
+				"sound_id": "sounds:block.chest.step"
+			},
+			"place": {
+				"sound_id": "sounds:block.barrel.place"
+			},
+			"hit": {
+				"sound_id": "sounds:block.chest.hit"
+			},
+			"fall": {
+				"sound_id": "minecraft:block.wood.fall"
+			},
+			"pitch": 1.0,
+			"volume": 1.5,
+			"break": {
+				"sound_id": "minecraft:block.wood.break"
+			}
+		},
+		"enabled": true
+	},
+	"CLAY": {
+		"blockTag": "sounds:clay",
+		"group": {
+			"step": {
+				"sound_id": "sounds:block.clay.step"
+			},
+			"place": {
+				"sound_id": "sounds:block.clay.place"
+			},
+			"hit": {
+				"sound_id": "sounds:block.clay.hit"
+			},
+			"fall": {
+				"sound_id": "minecraft:block.mud.fall"
+			},
+			"pitch": 1.0,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "sounds:block.clay.break"
+			}
+		},
+		"enabled": true
+	},
+	"CLAY_BRICKS": {
+		"blockTag": "sounds:clay_bricks",
+		"group": {
+			"step": {
+				"sound_id": "minecraft:block.nether_bricks.step"
+			},
+			"place": {
+				"sound_id": "minecraft:block.nether_bricks.place"
+			},
+			"hit": {
+				"sound_id": "minecraft:block.nether_bricks.hit"
+			},
+			"fall": {
+				"sound_id": "minecraft:block.nether_bricks.fall"
+			},
+			"pitch": 1.3,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "minecraft:block.nether_bricks.break"
+			}
+		},
+		"enabled": true
+	},
+	"COBBLESTONE": {
+		"blockTag": "sounds:cobblestone",
+		"group": {
+			"step": {
+				"sound_id": "sounds:block.cobblestone.step"
+			},
+			"place": {
+				"sound_id": "sounds:block.cobblestone.place"
+			},
+			"hit": {
+				"sound_id": "sounds:block.cobblestone.hit"
+			},
+			"fall": {
+				"sound_id": "sounds:block.cobblestone.fall"
+			},
+			"pitch": 1.0,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "sounds:block.cobblestone.break"
+			}
+		},
+		"enabled": true
+	},
+	"COPPER_ORE": {
+		"blockTag": "sounds:copper_ore",
+		"group": {
+			"step": {
+				"sound_id": "sounds:block.copper_ore.step"
+			},
+			"place": {
+				"sound_id": "sounds:block.copper_ore.place"
+			},
+			"hit": {
+				"sound_id": "sounds:block.copper_ore.hit"
+			},
+			"fall": {
+				"sound_id": "sounds:block.copper_ore.fall"
+			},
+			"pitch": 1.0,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "sounds:block.copper_ore.break"
+			}
+		},
+		"enabled": true
+	},
+	"DARK_PRISMARINE": {
+		"blockTag": "sounds:dark_prismarine",
+		"group": {
+			"step": {
+				"sound_id": "minecraft:block.deepslate_tiles.step"
+			},
+			"place": {
+				"sound_id": "minecraft:block.deepslate_tiles.place"
+			},
+			"hit": {
+				"sound_id": "minecraft:block.deepslate_tiles.hit"
+			},
+			"fall": {
+				"sound_id": "minecraft:block.deepslate_tiles.fall"
+			},
+			"pitch": 1.0,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "minecraft:block.deepslate_tiles.break"
+			}
+		},
+		"enabled": true
+	},
+	"DEEPSLATE_COPPER_ORE": {
+		"blockTag": "sounds:deepslate_copper_ore",
+		"group": {
+			"step": {
+				"sound_id": "sounds:block.deepslate_copper_ore.step"
+			},
+			"place": {
+				"sound_id": "sounds:block.deepslate_copper_ore.place"
+			},
+			"hit": {
+				"sound_id": "sounds:block.deepslate_copper_ore.hit"
+			},
+			"fall": {
+				"sound_id": "sounds:block.deepslate_copper_ore.fall"
+			},
+			"pitch": 1.0,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "sounds:block.copper_ore.break"
+			}
+		},
+		"enabled": true
+	},
+	"DEEPSLATE_GOLD_ORE": {
+		"blockTag": "sounds:deepslate_gold_ore",
+		"group": {
+			"step": {
+				"sound_id": "sounds:block.deepslate_gold_ore.step"
+			},
+			"place": {
+				"sound_id": "sounds:block.deepslate_gold_ore.place"
+			},
+			"hit": {
+				"sound_id": "sounds:block.deepslate_gold_ore.hit"
+			},
+			"fall": {
+				"sound_id": "sounds:block.deepslate_gold_ore.fall"
+			},
+			"pitch": 1.0,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "sounds:block.deepslate_gold_ore.break"
+			}
+		},
+		"enabled": true
+	},
+	"DEEPSLATE_IRON_ORE": {
+		"blockTag": "sounds:deepslate_iron_ore",
+		"group": {
+			"step": {
+				"sound_id": "sounds:block.deepslate_iron_ore.step"
+			},
+			"place": {
+				"sound_id": "sounds:block.deepslate_iron_ore.place"
+			},
+			"hit": {
+				"sound_id": "sounds:block.deepslate_iron_ore.hit"
+			},
+			"fall": {
+				"sound_id": "sounds:block.deepslate_iron_ore.fall"
+			},
+			"pitch": 1.0,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "sounds:block.deepslate_iron_ore.break"
+			}
+		},
+		"enabled": true
+	},
+	"EMERALD_BLOCK": {
+		"blockTag": "sounds:emerald_block",
+		"group": {
+			"step": {
+				"sound_id": "minecraft:block.bone_block.step"
+			},
+			"place": {
+				"sound_id": "sounds:block.quartz.place"
+			},
+			"hit": {
+				"sound_id": "minecraft:block.bone_block.hit"
+			},
+			"fall": {
+				"sound_id": "minecraft:block.bone_block.fall"
+			},
+			"pitch": 1.2,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "minecraft:block.bone_block.break"
+			}
+		},
+		"enabled": true
+	},
+	"END_STONE": {
+		"blockTag": "sounds:end_stone",
+		"group": {
+			"step": {
+				"sound_id": "sounds:block.quartz.step"
+			},
+			"place": {
+				"sound_id": "sounds:block.quartz.place"
+			},
+			"hit": {
+				"sound_id": "minecraft:block.stone.hit"
+			},
+			"fall": {
+				"sound_id": "minecraft:block.stone.fall"
+			},
+			"pitch": 0.8,
+			"volume": 0.9,
+			"break": {
+				"sound_id": "sounds:block.quartz.break"
+			}
+		},
+		"enabled": true
+	},
+	"END_STONE_BRICKS": {
+		"blockTag": "sounds:end_stone_bricks",
+		"group": {
+			"step": {
+				"sound_id": "sounds:block.quartz.step"
+			},
+			"place": {
+				"sound_id": "minecraft:block.deepslate_bricks.place"
+			},
+			"hit": {
+				"sound_id": "minecraft:block.deepslate_bricks.hit"
+			},
+			"fall": {
+				"sound_id": "minecraft:block.deepslate_bricks.fall"
+			},
+			"pitch": 1.0,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "minecraft:block.deepslate_bricks.break"
+			}
+		},
+		"enabled": true
+	},
+	"GLASS": {
+		"blockTag": "sounds:glass",
+		"group": {
+			"step": {
+				"sound_id": "sounds:block.glass.step"
+			},
+			"place": {
+				"sound_id": "sounds:block.glass.place"
+			},
+			"hit": {
+				"sound_id": "minecraft:block.glass.hit"
+			},
+			"fall": {
+				"sound_id": "minecraft:block.glass.fall"
+			},
+			"pitch": 1.0,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "sounds:block.glass.break"
+			}
+		},
+		"enabled": true
+	},
+	"GOLD": {
+		"blockTag": "sounds:gold",
+		"group": {
+			"step": {
+				"sound_id": "sounds:block.gold_block.step"
+			},
+			"place": {
+				"sound_id": "minecraft:block.netherite_block.place"
+			},
+			"hit": {
+				"sound_id": "minecraft:block.netherite_block.hit"
+			},
+			"fall": {
+				"sound_id": "minecraft:block.netherite_block.fall"
+			},
+			"pitch": 1.6,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "minecraft:block.netherite_block.break"
+			}
+		},
+		"enabled": true
+	},
+	"GOLD_ORE": {
+		"blockTag": "sounds:gold_ore",
+		"group": {
+			"step": {
+				"sound_id": "sounds:block.gold_ore.step"
+			},
+			"place": {
+				"sound_id": "sounds:block.gold_ore.place"
+			},
+			"hit": {
+				"sound_id": "sounds:block.gold_ore.hit"
+			},
+			"fall": {
+				"sound_id": "sounds:block.gold_ore.fall"
+			},
+			"pitch": 1.0,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "sounds:block.gold_ore.break"
+			}
+		},
+		"enabled": true
+	},
+	"GRAVEL": {
+		"blockTag": "sounds:gravel",
+		"group": {
+			"step": {
+				"sound_id": "sounds:block.gravel.step"
+			},
+			"place": {
+				"sound_id": "sounds:block.gravel.place"
+			},
+			"hit": {
+				"sound_id": "sounds:block.gravel.hit"
+			},
+			"fall": {
+				"sound_id": "minecraft:block.gravel.fall"
+			},
+			"pitch": 1.2,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "sounds:block.gravel.break"
+			}
+		},
+		"enabled": true
+	},
+	"HAY_BLOCK": {
+		"blockTag": "sounds:hay_block",
+		"group": {
+			"step": {
+				"sound_id": "sounds:block.hay_block.step"
+			},
+			"place": {
+				"sound_id": "sounds:block.hay_block.place"
+			},
+			"hit": {
+				"sound_id": "sounds:block.hay_block.hit"
+			},
+			"fall": {
+				"sound_id": "minecraft:block.tuff.fall"
+			},
+			"pitch": 1.0,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "sounds:block.hay_block.break"
+			}
+		},
+		"enabled": true
+	},
+	"ICE": {
+		"blockTag": "sounds:ice",
+		"group": {
+			"step": {
+				"sound_id": "sounds:block.ice.step"
+			},
+			"place": {
+				"sound_id": "sounds:block.ice.place"
+			},
+			"hit": {
+				"sound_id": "sounds:block.ice.hit"
+			},
+			"fall": {
+				"sound_id": "sounds:block.ice.fall"
+			},
+			"pitch": 1.0,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "sounds:block.ice.break"
+			}
+		},
+		"enabled": true
+	},
+	"IRON": {
+		"blockTag": "sounds:iron",
+		"group": {
+			"step": {
+				"sound_id": "sounds:block.iron_block.step"
+			},
+			"place": {
+				"sound_id": "minecraft:block.netherite_block.place"
+			},
+			"hit": {
+				"sound_id": "minecraft:block.netherite_block.hit"
+			},
+			"fall": {
+				"sound_id": "minecraft:block.netherite_block.fall"
+			},
+			"pitch": 1.2,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "minecraft:block.netherite_block.break"
+			}
+		},
+		"enabled": true
+	},
+	"IRON_ORE": {
+		"blockTag": "sounds:iron_ore",
+		"group": {
+			"step": {
+				"sound_id": "sounds:block.iron_ore.step"
+			},
+			"place": {
+				"sound_id": "sounds:block.iron_ore.place"
+			},
+			"hit": {
+				"sound_id": "sounds:block.iron_ore.hit"
+			},
+			"fall": {
+				"sound_id": "sounds:block.iron_ore.fall"
+			},
+			"pitch": 1.0,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "sounds:block.deepslate_iron_ore.break"
+			}
+		},
+		"enabled": true
+	},
+	"JUNGLE_LEAVES": {
+		"blockTag": "sounds:jungle_leaves",
+		"group": {
+			"step": {
+				"sound_id": "sounds:block.jungle_leaves.step"
+			},
+			"place": {
+				"sound_id": "sounds:block.jungle_leaves.place"
+			},
+			"hit": {
+				"sound_id": "sounds:block.jungle_leaves.hit"
+			},
+			"fall": {
+				"sound_id": "sounds:block.jungle_leaves.fall"
+			},
+			"pitch": 1.0,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "sounds:block.jungle_leaves.break"
+			}
+		},
+		"enabled": true
+	},
+	"JUNGLE_OBJECT": {
+		"blockTag": "sounds:jungle_object",
+		"group": {
+			"step": {
+				"sound_id": "sounds:block.jungle_planks.step"
+			},
+			"place": {
+				"sound_id": "sounds:block.jungle_planks.place"
+			},
+			"hit": {
+				"sound_id": "sounds:block.spruce_planks.hit"
+			},
+			"fall": {
+				"sound_id": "sounds:block.jungle_planks.fall"
+			},
+			"pitch": 1.0,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "sounds:block.jungle_planks.break"
+			}
+		},
+		"enabled": true
+	},
+	"JUNGLE_PLANKS": {
+		"blockTag": "sounds:jungle_planks",
+		"group": {
+			"step": {
+				"sound_id": "sounds:block.jungle_planks.step"
+			},
+			"place": {
+				"sound_id": "sounds:block.jungle_planks.place"
+			},
+			"hit": {
+				"sound_id": "sounds:block.spruce_planks.hit"
+			},
+			"fall": {
+				"sound_id": "sounds:block.jungle_planks.fall"
+			},
+			"pitch": 1.0,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "sounds:block.jungle_planks.break"
+			}
+		},
+		"enabled": true
+	},
+	"LAPIS_BLOCK": {
+		"blockTag": "sounds:lapis_block",
+		"group": {
+			"step": {
+				"sound_id": "minecraft:block.bone_block.step"
+			},
+			"place": {
+				"sound_id": "minecraft:block.bone_block.place"
+			},
+			"hit": {
+				"sound_id": "minecraft:block.bone_block.hit"
+			},
+			"fall": {
+				"sound_id": "minecraft:block.bone_block.fall"
+			},
+			"pitch": 1.2,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "minecraft:block.bone_block.break"
+			}
+		},
+		"enabled": true
+	},
+	"LOOM": {
+		"blockTag": "sounds:loom",
+		"group": {
+			"step": {
+				"sound_id": "sounds:block.loom.step"
+			},
+			"place": {
+				"sound_id": "sounds:block.loom.place"
+			},
+			"hit": {
+				"sound_id": "sounds:block.loom.hit"
+			},
+			"fall": {
+				"sound_id": "minecraft:block.wood.fall"
+			},
+			"pitch": 1.0,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "sounds:block.loom.break"
+			}
+		},
+		"enabled": true
+	},
+	"MAGMA_BLOCK": {
+		"blockTag": "sounds:magma_block",
+		"group": {
+			"step": {
+				"sound_id": "sounds:block.magma_block.step"
+			},
+			"place": {
+				"sound_id": "sounds:block.magma_block.place"
+			},
+			"hit": {
+				"sound_id": "sounds:block.magma_block.hit"
+			},
+			"fall": {
+				"sound_id": "sounds:block.magma_block.fall"
+			},
+			"pitch": 1.0,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "sounds:block.magma_block.break"
+			}
+		},
+		"enabled": true
+	},
+	"MANGROVE_LEAVES": {
+		"blockTag": "sounds:mangrove_leaves",
+		"group": {
+			"step": {
+				"sound_id": "sounds:block.mangrove_leaves.step"
+			},
+			"place": {
+				"sound_id": "sounds:block.mangrove_leaves.place"
+			},
+			"hit": {
+				"sound_id": "sounds:block.mangrove_leaves.hit"
+			},
+			"fall": {
+				"sound_id": "sounds:block.mangrove_leaves.fall"
+			},
+			"pitch": 1.0,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "sounds:block.mangrove_leaves.break"
+			}
+		},
+		"enabled": true
+	},
+	"MANGROVE_LOG": {
+		"blockTag": "sounds:mangrove_log",
+		"group": {
+			"step": {
+				"sound_id": "sounds:block.mangrove_log.step"
+			},
+			"place": {
+				"sound_id": "sounds:block.mangrove_log.place"
+			},
+			"hit": {
+				"sound_id": "sounds:block.mangrove_log.hit"
+			},
+			"fall": {
+				"sound_id": "sounds:block.mangrove_log.fall"
+			},
+			"pitch": 1.0,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "sounds:block.mangrove_log.break"
+			}
+		},
+		"enabled": true
+	},
+	"MANGROVE_OBJECT": {
+		"blockTag": "sounds:mangrove_object",
+		"group": {
+			"step": {
+				"sound_id": "sounds:block.mangrove_planks.step"
+			},
+			"place": {
+				"sound_id": "sounds:block.mangrove_planks.place"
+			},
+			"hit": {
+				"sound_id": "sounds:block.mangrove_planks.hit"
+			},
+			"fall": {
+				"sound_id": "sounds:block.mangrove_planks.fall"
+			},
+			"pitch": 1.0,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "sounds:block.mangrove_planks.break"
+			}
+		},
+		"enabled": true
+	},
+	"MANGROVE_PLANKS": {
+		"blockTag": "sounds:mangrove_planks",
+		"group": {
+			"step": {
+				"sound_id": "sounds:block.mangrove_planks.step"
+			},
+			"place": {
+				"sound_id": "sounds:block.mangrove_planks.place"
+			},
+			"hit": {
+				"sound_id": "sounds:block.mangrove_planks.hit"
+			},
+			"fall": {
+				"sound_id": "sounds:block.mangrove_planks.fall"
+			},
+			"pitch": 1.0,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "sounds:block.mangrove_planks.break"
+			}
+		},
+		"enabled": true
+	},
+	"MOSSY_COBBLESTONE": {
+		"blockTag": "sounds:mossy_cobblestone",
+		"group": {
+			"step": {
+				"sound_id": "sounds:block.mossy_cobblestone.step"
+			},
+			"place": {
+				"sound_id": "sounds:block.cobblestone.place"
+			},
+			"hit": {
+				"sound_id": "sounds:block.mossy_cobblestone.hit"
+			},
+			"fall": {
+				"sound_id": "sounds:block.cobblestone.fall"
+			},
+			"pitch": 1.0,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "sounds:block.mossy_cobblestone.break"
+			}
+		},
+		"enabled": true
+	},
+	"MOSSY_STONE_BRICKS": {
+		"blockTag": "sounds:mossy_stone_bricks",
+		"group": {
+			"step": {
+				"sound_id": "sounds:block.mossy_stone_bricks.step"
+			},
+			"place": {
+				"sound_id": "minecraft:block.deepslate_bricks.place"
+			},
+			"hit": {
+				"sound_id": "sounds:block.mossy_stone_bricks.hit"
+			},
+			"fall": {
+				"sound_id": "sounds:block.mossy_stone_bricks.fall"
+			},
+			"pitch": 1.0,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "sounds:block.mossy_cobblestone.break"
+			}
+		},
+		"enabled": true
+	},
+	"OAK_LOG": {
+		"blockTag": "sounds:oak_log",
+		"group": {
+			"step": {
+				"sound_id": "sounds:block.oak_log.step"
+			},
+			"place": {
+				"sound_id": "sounds:block.oak_log.place"
+			},
+			"hit": {
+				"sound_id": "sounds:block.oak_log.hit"
+			},
+			"fall": {
+				"sound_id": "sounds:block.oak_log.fall"
+			},
+			"pitch": 1.0,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "sounds:block.oak_log.break"
+			}
+		},
+		"enabled": true
+	},
+	"OBSIDIAN": {
+		"blockTag": "sounds:obsidian",
+		"group": {
+			"step": {
+				"sound_id": "minecraft:block.deepslate.step"
+			},
+			"place": {
+				"sound_id": "minecraft:block.deepslate.place"
+			},
+			"hit": {
+				"sound_id": "minecraft:block.deepslate.hit"
+			},
+			"fall": {
+				"sound_id": "minecraft:block.deepslate.fall"
+			},
+			"pitch": 0.7,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "minecraft:block.deepslate.break"
+			}
+		},
+		"enabled": true
+	},
+	"PACKED_ICE": {
+		"blockTag": "sounds:packed_ice",
+		"group": {
+			"step": {
+				"sound_id": "sounds:block.packed_ice.step"
+			},
+			"place": {
+				"sound_id": "sounds:block.packed_ice.place"
+			},
+			"hit": {
+				"sound_id": "sounds:block.packed_ice.hit"
+			},
+			"fall": {
+				"sound_id": "sounds:block.packed_ice.fall"
+			},
+			"pitch": 1.0,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "sounds:block.packed_ice.break"
+			}
+		},
+		"enabled": true
+	},
+	"PRISMARINE": {
+		"blockTag": "sounds:prismarine",
+		"group": {
+			"step": {
+				"sound_id": "minecraft:block.deepslate.step"
+			},
+			"place": {
+				"sound_id": "minecraft:block.deepslate.place"
+			},
+			"hit": {
+				"sound_id": "minecraft:block.deepslate.hit"
+			},
+			"fall": {
+				"sound_id": "minecraft:block.deepslate.fall"
+			},
+			"pitch": 1.0,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "minecraft:block.deepslate.break"
+			}
+		},
+		"enabled": true
+	},
+	"QUARTZ": {
+		"blockTag": "sounds:quartz",
+		"group": {
+			"step": {
+				"sound_id": "sounds:block.quartz.step"
+			},
+			"place": {
+				"sound_id": "minecraft:block.deepslate.place"
+			},
+			"hit": {
+				"sound_id": "minecraft:block.stone.hit"
+			},
+			"fall": {
+				"sound_id": "minecraft:block.deepslate.fall"
+			},
+			"pitch": 1.0,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "sounds:block.quartz.break"
+			}
+		},
+		"enabled": true
+	},
+	"RAW_GOLD_BLOCK": {
+		"blockTag": "sounds:raw_gold_block",
+		"group": {
+			"step": {
+				"sound_id": "sounds:block.raw_gold_block.step"
+			},
+			"place": {
+				"sound_id": "sounds:block.raw_gold_block.place"
+			},
+			"hit": {
+				"sound_id": "sounds:block.raw_gold_block.hit"
+			},
+			"fall": {
+				"sound_id": "sounds:block.raw_gold_block.fall"
+			},
+			"pitch": 1.0,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "sounds:block.raw_gold_block.break"
+			}
+		},
+		"enabled": true
+	},
+	"SANDSTONE": {
+		"blockTag": "sounds:sandstone",
+		"group": {
+			"step": {
+				"sound_id": "sounds:block.sandstone.step"
+			},
+			"place": {
+				"sound_id": "minecraft:block.tuff.place"
+			},
+			"hit": {
+				"sound_id": "minecraft:block.tuff.hit"
+			},
+			"fall": {
+				"sound_id": "minecraft:block.tuff.fall"
+			},
+			"pitch": 1.0,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "minecraft:block.tuff.break"
+			}
+		},
+		"enabled": true
+	},
+	"SHEET_METAL": {
+		"blockTag": "sounds:sheet_metal",
+		"group": {
+			"step": {
+				"sound_id": "sounds:block.sheet_metal.step"
+			},
+			"place": {
+				"sound_id": "minecraft:block.netherite_block.place"
+			},
+			"hit": {
+				"sound_id": "minecraft:block.netherite_block.hit"
+			},
+			"fall": {
+				"sound_id": "minecraft:block.netherite_block.fall"
+			},
+			"pitch": 1.2,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "sounds:block.sheet_metal.break"
+			}
+		},
+		"enabled": true
+	},
+	"SPRUCE_LEAVES": {
+		"blockTag": "sounds:spruce_leaves",
+		"group": {
+			"step": {
+				"sound_id": "sounds:block.spruce_leaves.step"
+			},
+			"place": {
+				"sound_id": "sounds:block.spruce_leaves.place"
+			},
+			"hit": {
+				"sound_id": "sounds:block.spruce_leaves.hit"
+			},
+			"fall": {
+				"sound_id": "sounds:block.spruce_leaves.fall"
+			},
+			"pitch": 1.0,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "sounds:block.spruce_leaves.break"
+			}
+		},
+		"enabled": true
+	},
+	"SPRUCE_LOG": {
+		"blockTag": "sounds:spruce_log",
+		"group": {
+			"step": {
+				"sound_id": "sounds:block.spruce_log.step"
+			},
+			"place": {
+				"sound_id": "sounds:block.spruce_log.place"
+			},
+			"hit": {
+				"sound_id": "sounds:block.spruce_log.hit"
+			},
+			"fall": {
+				"sound_id": "sounds:block.spruce_log.fall"
+			},
+			"pitch": 1.0,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "sounds:block.spruce_log.break"
+			}
+		},
+		"enabled": true
+	},
+	"SPRUCE_OBJECT": {
+		"blockTag": "sounds:spruce_object",
+		"group": {
+			"step": {
+				"sound_id": "sounds:block.spruce_planks.step"
+			},
+			"place": {
+				"sound_id": "sounds:block.spruce_object.place"
+			},
+			"hit": {
+				"sound_id": "sounds:block.spruce_planks.hit"
+			},
+			"fall": {
+				"sound_id": "sounds:block.spruce_planks.fall"
+			},
+			"pitch": 1.0,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "sounds:block.spruce_object.break"
+			}
+		},
+		"enabled": true
+	},
+	"SPRUCE_PLANKS": {
+		"blockTag": "sounds:spruce_planks",
+		"group": {
+			"step": {
+				"sound_id": "sounds:block.spruce_planks.step"
+			},
+			"place": {
+				"sound_id": "sounds:block.spruce_planks.place"
+			},
+			"hit": {
+				"sound_id": "sounds:block.spruce_planks.hit"
+			},
+			"fall": {
+				"sound_id": "sounds:block.spruce_planks.fall"
+			},
+			"pitch": 1.0,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "sounds:block.spruce_planks.break"
+			}
+		},
+		"enabled": true
+	},
+	"STONE_BRICKS": {
+		"blockTag": "sounds:stone_bricks",
+		"group": {
+			"step": {
+				"sound_id": "sounds:block.stone_bricks.step"
+			},
+			"place": {
+				"sound_id": "minecraft:block.deepslate_bricks.place"
+			},
+			"hit": {
+				"sound_id": "sounds:block.stone_bricks.hit"
+			},
+			"fall": {
+				"sound_id": "sounds:block.stone_bricks.fall"
+			},
+			"pitch": 1.0,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "sounds:block.cobblestone.break"
+			}
+		},
+		"enabled": true
+	},
+	"TERRACOTTA": {
+		"blockTag": "sounds:terracotta",
+		"group": {
+			"step": {
+				"sound_id": "minecraft:block.calcite.step"
+			},
+			"place": {
+				"sound_id": "minecraft:block.calcite.place"
+			},
+			"hit": {
+				"sound_id": "minecraft:block.calcite.hit"
+			},
+			"fall": {
+				"sound_id": "minecraft:block.calcite.fall"
+			},
+			"pitch": 0.6,
+			"volume": 1.0,
+			"break": {
+				"sound_id": "minecraft:block.calcite.break"
+			}
+		},
+		"enabled": true
+	}
+}
