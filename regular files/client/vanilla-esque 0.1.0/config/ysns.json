@@ -1,0 +1,6 @@
+{
+  "blacklisted_entities": [
+    "minecraft:phantom",
+    "any_mod:any_mob"
+  ]
+}

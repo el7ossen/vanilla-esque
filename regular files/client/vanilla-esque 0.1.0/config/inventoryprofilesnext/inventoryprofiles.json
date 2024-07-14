@@ -1,0 +1,9 @@
+{
+    "ModSettings": {
+        "enable_lock_slots": {
+            "value": false
+        },
+        "enable_lock_slots_per_server": false,
+        "first_run": false
+    }
+}
