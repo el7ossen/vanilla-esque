@@ -1,9 +1,0 @@
-{
-	"favorites": [
-		"{data:{count:1,id:\"minecraft:stripped_acacia_wood\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{count:1,id:\"minecraft:spruce_trapdoor\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{count:1,id:\"minecraft:jungle_wood\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
-	],
-	"hiddenFavorites": [],
-	"displays": []
-}
