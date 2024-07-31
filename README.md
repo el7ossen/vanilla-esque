@@ -7,6 +7,10 @@ The Vanilla-Esque modpack is made to be as close to vanilla Minecraft while havi
 Vanilla-Esque is made to be quite simple while keeping it fresh for your ~~short attention span~~ enjoyment. It has a combination of QOL mods, Optimization and simple cute stuff like [Snow! Real Magic! ⛄](https://modrinth.com/mod/snow-real-magic).
 
 ---
+### Announcements
+- Be aware that changes to world generation may occur with future updates until the release version
+
+---
 ### The Future of This Modpack
 
 - I'm hoping I can take in any suggestions and/or criticisms and put it back into the modpack
@@ -23,8 +27,7 @@ Vanilla-Esque is made to be quite simple while keeping it fresh for your ~~short
 <summary>Included Resource/Shader Packs</summary>
 
 - [BlazeandCave's Advancement Pack](https://modrinth.com/datapack/blazeandcaves-advancements-pack "BlazeandCave's Advancement Pack")
-- [Complimentary Shaders - Unbound](https://modrinth.com/shader/complementary-unbound)
-- [Insanity Shader](https://modrinth.com/shader/insanity-shader)
+- [MakeUp - Ultra Fast](https://modrinth.com/shader/makeup-ultra-fast-shaders)
 - [Uniqe Dark](https://modrinth.com/resourcepack/unique-dark)
 - [Dramatic Skys](https://modrinth.com/resourcepack/dramatic-skys)
 </details>
@@ -33,7 +36,6 @@ Vanilla-Esque is made to be quite simple while keeping it fresh for your ~~short
 <details>
 <summary>Info</summary>
 
-- As of now the minimum required RAM is 6GB for max settings with no shaders
 - Please report any problems to my [github page](https://github.com/el7ossen/vanilla-esque)
 </details>
 
