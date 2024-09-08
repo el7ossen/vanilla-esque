@@ -4,7 +4,7 @@
 
 The Vanilla-Esque modpack is made to be as close to vanilla Minecraft while having small awesome stuff added in to make it feel just a little bit better!
 
-Vanilla-Esque is made to be quite simple while keeping it fresh for your ~~short attention span~~ enjoyment. It has a combination of QOL mods, Optimization and simple cute stuff like [Snow! Real Magic! ⛄](https://modrinth.com/mod/snow-real-magic).
+Vanilla-Esque is made to be quite simple while keeping it fresh for your ~~short attention span~~ enjoyment. It has a combination of QOL mods, Optimization and simple cute stuff.
 
 ---
 ### Announcements
@@ -30,6 +30,7 @@ Vanilla-Esque is made to be quite simple while keeping it fresh for your ~~short
 - [MakeUp - Ultra Fast](https://modrinth.com/shader/makeup-ultra-fast-shaders)
 - [Uniqe Dark](https://modrinth.com/resourcepack/unique-dark)
 - [Dramatic Skys](https://modrinth.com/resourcepack/dramatic-skys)
+- [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations)
 </details>
 
 ---
